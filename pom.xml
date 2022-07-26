@@ -87,12 +87,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Idexcel Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.91.31:8082/repository/lovely/</url>
+	      <url>http://13.233.91.31:8082/repository/nani/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Idexcel Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.91.31:8082/repository/lovely/</url>
+	      <url>http://13.233.91.31:8082/repository/nani/</url>
 	    </snapshotRepository>
        </distributionManagement>    
         <build>
