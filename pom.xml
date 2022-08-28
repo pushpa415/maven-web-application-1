@@ -87,12 +87,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Idexcel Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.212.201:8083/repository/bruno/</url>
+	      <url>http://13.233.186.236:8083/repository/venkat/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Idexcel Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.212.201:8083/repository/bruno/</url>
+	      <url>http://13.233.186.236:8083/repository/venkat/</url>
 	    </snapshotRepository>
        </distributionManagement>    
         <build>
