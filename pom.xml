@@ -87,12 +87,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Idexcel Technologies Releases Nexus Repository</name>
-	      <url>http://52.66.203.82:8083/repository/manju/</url>
+	      <url>http://3.110.170.47:8083/repository/phone/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Idexcel Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.66.203.82:8083/repository/manju/</url>
+	      <url>http://3.110.170.47:8083/repository/phone/</url>
 	    </snapshotRepository>
        </distributionManagement>    
         <build>
